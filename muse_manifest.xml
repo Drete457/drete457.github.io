@@ -1,0 +1,38 @@
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="deepweb.github.io" resolutions="1x" timestamp="1585509858350">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="description.css" crc="495403179" ref="description"/>
+    <file name="index.css" crc="308725693" ref="index"/>
+    <file name="nomq_index.css" crc="384814982" ref="index"/>
+    <file name="vpn.css" crc="495403179" ref="vpn"/>
+    <file name="tools.css" crc="495403179" ref="tools"/>
+    <file name="tor.css" crc="495403179" ref="tor"/>
+    <file name="services.css" crc="495403179" ref="services"/>
+    <file name="prices.css" crc="495403179" ref="prices"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:services:description:prices:tools:tor:vpn"/>
+    <file name="museutils.js" crc="4216313831" ref="index:services:description:prices:tools:tor:vpn"/>
+    <file name="whatinput.js" crc="86476730" ref="index:services:description:prices:tools:tor:vpn"/>
+    <file name="museconfig.js" crc="474374037" ref="index:services:description:prices:tools:tor:vpn"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="index"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index:services:description:prices:tools:tor:vpn"/>
+    <file name="jquery.museresponsive.js" crc="4055310269" ref="index"/>
+    <file name="require.js" crc="3951022091" ref="index:services:description:prices:tools:tor:vpn"/>
+  </folder>
+  <folder name="images">
+    <file name="dee-web-layout.jpg" crc="4054943311" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dee-web-layout-u290-fr.jpg" crc="151965884" ref="index"/>
+    <file name="dee-web-layout-u290-fr2.jpg" crc="260786398" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4060665489" seo="true" mt="1585509806948" redirect="true"/>
+  <file name="services.html" crc="4008693267" seo="true" mt="1585500194815" redirect="false"/>
+  <file name="description.html" crc="172204797" seo="true" mt="1585500263306" redirect="false"/>
+  <file name="prices.html" crc="4261158558" seo="true" mt="1585500284514" redirect="false"/>
+  <file name="tools.html" crc="224479424" seo="true" mt="1585500299525" redirect="false"/>
+  <file name="tor.html" crc="242027443" seo="true" mt="1585500396274" redirect="false"/>
+  <file name="vpn.html" crc="281001972" seo="true" mt="1585500401798" redirect="false"/>
+</manifest>
