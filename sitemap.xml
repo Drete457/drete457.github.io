@@ -2,44 +2,155 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://deepweb.github.io/index.html</loc>
-    <lastmod>2020-03-29</lastmod>
+    <lastmod>2020-04-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://deepweb.github.io/images/group%2033.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://deepweb.github.io/images/dark-web-deep-web.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://deepweb.github.io/images/deepweb.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://deepweb.github.io/images/deepweb-150323113049conversiongate01-1-638.jpg</image:loc>
+    </image:image>
   </url>
   <url>
-    <loc>http://deepweb.github.io/services.html</loc>
-    <lastmod>2020-03-29</lastmod>
+    <loc>http://deepweb.github.io/deep-web-explained.html</loc>
+    <lastmod>2020-04-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://deepweb.github.io/images/group%2033.png</image:loc>
+    </image:image>
   </url>
   <url>
-    <loc>http://deepweb.github.io/description.html</loc>
-    <lastmod>2020-03-29</lastmod>
+    <loc>http://deepweb.github.io/deep-web-vs.-dark-web.html</loc>
+    <lastmod>2020-04-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://deepweb.github.io/images/group%2033.png</image:loc>
+    </image:image>
   </url>
   <url>
-    <loc>http://deepweb.github.io/prices.html</loc>
-    <lastmod>2020-03-29</lastmod>
+    <loc>http://deepweb.github.io/not-so-hidden.html</loc>
+    <lastmod>2020-04-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://deepweb.github.io/images/group%2033.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://deepweb.github.io/how-it-works.html</loc>
+    <lastmod>2020-04-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://deepweb.github.io/images/group%2033.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://deepweb.github.io/databases.html</loc>
+    <lastmod>2020-04-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://deepweb.github.io/images/group%2033.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://deepweb.github.io/misconceptions.html</loc>
+    <lastmod>2020-04-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://deepweb.github.io/images/group%2033.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://deepweb.github.io/-1-is-illegal.html</loc>
+    <lastmod>2020-04-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://deepweb.github.io/images/group%2033.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://deepweb.github.io/-2-is-for-experts-only.html</loc>
+    <lastmod>2020-04-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://deepweb.github.io/images/group%2033.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://deepweb.github.io/-3-can-t-be-searched.html</loc>
+    <lastmod>2020-04-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://deepweb.github.io/images/group%2033.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://deepweb.github.io/how-you-can-use.html</loc>
+    <lastmod>2020-04-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://deepweb.github.io/images/group%2033.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://deepweb.github.io/how-to-search.html</loc>
+    <lastmod>2020-04-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://deepweb.github.io/images/group%2033.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://deepweb.github.io/people-search-engines.html</loc>
+    <lastmod>2020-04-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://deepweb.github.io/images/group%2033.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://deepweb.github.io/full-text-search-engines.html</loc>
+    <lastmod>2020-04-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://deepweb.github.io/images/group%2033.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://deepweb.github.io/search-one-layer-up.html</loc>
+    <lastmod>2020-04-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://deepweb.github.io/images/group%2033.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://deepweb.github.io/tools.html</loc>
-    <lastmod>2020-03-29</lastmod>
+    <lastmod>2020-04-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://deepweb.github.io/tor.html</loc>
-    <lastmod>2020-03-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://deepweb.github.io/vpn.html</loc>
-    <lastmod>2020-03-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://deepweb.github.io/images/group%2033.png</image:loc>
+    </image:image>
   </url>
 </urlset>
